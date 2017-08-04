@@ -1,0 +1,1 @@
+CREATE TABLE `oralexam`.`room` (`kdno` INT NULL,`kcno` INT NULL,`ccno` INT NULL,`kdname` VARCHAR(45) NULL,`exptime` DATETIME NULL, `papername` VARCHAR(45) NULL)

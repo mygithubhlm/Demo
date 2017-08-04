@@ -1,0 +1,1 @@
+CREATE TABLE `oralexam`.`studentexc` (`registno` VARCHAR(10) NOT NULL,`name` VARCHAR(20) NOT NULL,`kdno` INT NULL,`kcno` INT NULL, `ccno` INT NULL,`seat` INT NULL)
